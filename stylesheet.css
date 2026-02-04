@@ -1,10 +1,10 @@
 Body{
-   background-color: #6d4ef4;
+   background-color: #f44e4e;
    font-family: sans-serif;
    display: flex;
    justify-content: center;
    align-items: center;
-   margin: 20%;
+   margin: 21%;
 }
 .container{
    background: #fff;
